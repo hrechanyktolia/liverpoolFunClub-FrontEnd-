@@ -1,0 +1,14 @@
+.title {
+    padding: 21px;
+    color: #000 !important;
+    font-size: 30px !important;
+}
+.listItem:hover {
+    background-color: red !important;
+}
+
+.text {
+    color: #000 !important;
+    font-size: 22px !important;
+}
+

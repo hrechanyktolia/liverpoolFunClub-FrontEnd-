@@ -1,0 +1,12 @@
+.root {
+    padding: 10px 0;
+    background-color: red;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}

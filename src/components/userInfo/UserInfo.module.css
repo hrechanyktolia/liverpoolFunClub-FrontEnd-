@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.name {
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 2px;
+}
+.date {
+    font-size: 15px;
+    opacity: 0.6;
+}
